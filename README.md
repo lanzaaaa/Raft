@@ -24,4 +24,4 @@ O algoritmo Raft é usado para garantir que todos os nós em um sistema distribu
 Clone este repositório para a sua máquina local:
 
 ```bash
-git clone https://github.com/lanzaaaa/Raft
+git clone https://github.com/lanzaaaa/Raft.git
